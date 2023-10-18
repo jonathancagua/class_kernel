@@ -1,0 +1,40 @@
+github
+---------------------------------------------------
+git@github.com:pslavkin/isoii_2023.git
+
+progressing docker 
+----------------------
+vslavkin/isoii:1
+vslavkin/isoii:2
+vslavkin/isoii:3
+vslavkin/isoii:4
+vslavkin/isoii:5
+vslavkin/isoii:6
+vslavkin/isoii:7
+
+
+Hardware
+---------------------
+Carlos Herrera
+Toradex y RP4
+
+German
+sin hardware de momento
+
+Jose David
+RP 3
+
+Lucas Monzon
+RP 4
+
+Marcos
+RP3
+
+Nicolas 
+RP3
+de todo
+
+
+
+
+
